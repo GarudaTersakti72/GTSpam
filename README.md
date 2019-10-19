@@ -1,29 +1,29 @@
 # GTSpam
-Thanks To All Member Garuda Tersakti 72
+Thanks To All Member Garuda Tersakti 72<br><br><br>
 
 
-Install
+Install<br><br>
 
-$ pkg install php
-$ pkg install sh
-$ pkg install toilet
-$ pkg install git
-$ pkg install figlet
-$ git clone https://github.com/GarudaTersakti72/GTSpam
-$ cd GTSpam
-$ sh CS.sh
+$ pkg install php<br>
+$ pkg install sh<br>
+$ pkg install toilet<br>
+$ pkg install git<br>
+$ pkg install figlet<br>
+$ git clone https://github.com/GarudaTersakti72/GTSpam<br>
+$ cd GTSpam<br>
+$ sh CS.sh<br><br>
 
-[!] Spam sms [!]
+[!] Spam sms [!]<br><br>
 
-[#] Spam Zipay
-[#] Spam Whiskas
-[#] Spam Jd .id
-[#] Spam Tokopedia
-[#] Spam Matahari mall
-[#] Spam Hooq
-[#] Spam Three bomb
-[#] Spam Phd
-[#] Spam Kfc
+[#] Spam Zipay<br>
+[#] Spam Whiskas<br>
+[#] Spam Jd .id<br>
+[#] Spam Tokopedia<br>
+[#] Spam Matahari mall<br>
+[#] Spam Hooq<br>
+[#] Spam Three bomb<br>
+[#] Spam Phd<br>
+[#] Spam Kfc<br><br><br>
 
 
 # share
